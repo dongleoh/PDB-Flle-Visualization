@@ -66,6 +66,15 @@
 
 ---
 
+## 🖼️ 영상 캡쳐본
+
+| Three.js 기반 | 3Dmol.js 기반 |
+|---------------|---------------|
+| ![pdb_three_2to10](https://github.com/user-attachments/assets/0d86cffe-bc13-4bcd-9cf8-c75f5dde3f8d) | ![pdb_3dmol_2to10](https://github.com/user-attachments/assets/7ea1f9b7-306a-42a0-9c25-b6ab8214a695) |
+
+
+---
+
 ## 📈 결과 및 의의
 
 * PDB 데이터의 구조적 이해를 위한 웹 시각화 도구 가능성 확인
