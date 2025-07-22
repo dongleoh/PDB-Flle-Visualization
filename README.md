@@ -59,11 +59,10 @@
 
 ## 🖼️ 시각화 예시 스크린샷
 
-| Three.js 기반                                 | 3Dmol.js 기반                          |
-| ------------------------------------------- | ------------------------------------ |
-| ![three.js 결과](./images/three_pdb_view.png) | ![3dmol 결과](./images/3dmol_view.png) |
+| Three.js 기반 | 3Dmol.js 기반 |
+|---------------|---------------|
+| ![three.js 결과](https://github.com/user-attachments/assets/04971e37-98dc-4e8e-8ab6-8c44650d2365) | ![3dmol 결과](https://github.com/user-attachments/assets/9fe28dde-f22c-49ab-b535-47f996161200) |
 
-> 또는 영상 데모: `화면 기록 2025-07-20 오후 5.44.06.mov`
 
 ---
 
@@ -80,18 +79,15 @@
 
 ```
 📦 pdb-visualization-project
-├── /threejs_viewer
+├── /pdb_three
 │   ├── index.html
-│   └── three_pdb.js
-├── /3dmol_viewer
-│   └── index.html
-├── /pdb_files
-│   └── 1A1X.pdb
-├── /images
-│   ├── three_pdb_view.png
-│   └── 3dmol_view.png
-└── /videos
-    └── visualization_demo.mov
+│   ├── three_pdb.js
+│   └── /pdb_files
+│       └── 1A1X.pdb
+├── /pdb_3dmol
+│   ├── index.html
+│   └── /pdb_files
+│       └── 1A1X.pdb
 ```
 
 ---
